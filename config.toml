@@ -158,7 +158,7 @@ title = "Biodiversity Monitoring in GGC Meta"
     facebook = "https://www.facebook.com/djlizcano/"
     twitter = "https://twitter.com/dlizcano"
     email = "mailto:diego.lizcano@tnc.org"
-    # instagram = "#"
+    linkedin = "https://www.linkedin.com/in/lizcano/"
     github = "https://github.com/dlizcano"
 
 
@@ -170,8 +170,8 @@ title = "Biodiversity Monitoring in GGC Meta"
     img = "images/Alejo.jpg"
     facebook = "https://www.facebook.com/alejandroloperat"
     # twitter = "#"
-    # dribbble = "#"
-    # instagram = "#"
+    email = "mailto:alejandro.lopera@gmail.com"
+    linkedin = "https://www.linkedin.com/in/alejandro-lopera-8102b660/"
     # github = "#"
 
   [[params.team.item]]
@@ -181,8 +181,8 @@ title = "Biodiversity Monitoring in GGC Meta"
     img = "images/robert.jpg"
     facebook = "https://www.facebook.com/robert.a.rodriguez.16"
     # twitter = "#"
-    # dribbble = "#"
-    # instagram = "#"
+    # linkedin = "#"
+    email = "mailto:robert.gaica@gmail.com"
     # github = "#"
 
   [[params.team.item]]
@@ -192,8 +192,8 @@ title = "Biodiversity Monitoring in GGC Meta"
     img = "images/yuri.jpg"
     facebook = "https://www.facebook.com/yuri.r.mora"
     # twitter = "#"
-    # dribbble = "#"
-    # instagram = "#"
+    email = "mailto:correoyuri22@gmail.com"
+    linkedin = "https://www.linkedin.com/in/yuri-rosero-73776789/"
     # github = "#"
 
   [[params.team.item]]
@@ -203,7 +203,7 @@ title = "Biodiversity Monitoring in GGC Meta"
     img = "images/David2.jpg"
     facebook = "https://www.facebook.com/pedro.chapeta"
     # twitter = "#"
-    # dribbble = "#"
+    email = "mailto:dchapeta@gmail.com"
     # instagram = "#"
     # github = "#"
 
@@ -216,7 +216,7 @@ title = "Biodiversity Monitoring in GGC Meta"
       facebook = "https://www.facebook.com/twalsch"
       # twitter = "#"
       # dribbble = "#"
-      # instagram = "#"
+      email = "mailto:twalschburger@TNC.ORG"
       # github = "#"
 
   # [[params.team.item]]
@@ -240,7 +240,7 @@ title = "Biodiversity Monitoring in GGC Meta"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2017 The Nature Conservancy NASCA. <br> Designed by dlizcano using <a href='https://github.com/rstudio/blogdown' target='_blank'>blogdown</a> in <a href='https://www.rstudio.com/' target='_blank'>RStudio</a>. Some Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>More information <a href='http://www.mundotnc.org/nuestro-trabajo/donde-trabajamos/america/colombia/index.htm?intc=mundo.tnav.trabajo' target='_blank'>TNC Mundo</a></small></p>"
+  note = "<p><small>&copy; 2017 The Nature Conservancy NASCA. <br> Designed by Diego Lizcano using <a href='https://github.com/rstudio/blogdown' target='_blank'>blogdown</a> in <a href='https://www.rstudio.com/' target='_blank'>RStudio</a>. Using the <a href='https://themes.gohugo.io/hugo-icon/' target='_blank'>Hugo-Icon template</a><br>More information <a href='http://www.mundotnc.org/nuestro-trabajo/donde-trabajamos/america/colombia/index.htm?intc=mundo.tnav.trabajo' target='_blank'>TNC Mundo</a></small></p>"
   twitter = "https://twitter.com/MundoTNC"
   facebook = "https://www.facebook.com/MundoTNC"
   youtube = "http://www.youtube.com/user/natureconservancy"
