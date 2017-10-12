@@ -72,7 +72,7 @@ title = "Biodiversity Monitoring in GGC Meta"
   [[params.services.item]]
     icon = "icon-loader"
     title = "VHF Telemetry"
-    description = "We use two Wildlife materials VHF receivers and an old Lotek VHF telemetry receiver simultaneously."
+    description = "We use two Wildlife materials VHF receivers and one Lotek VHF telemetry receiver simultaneously."
 
   [[params.services.item]]
     icon = "icon-calculator"
@@ -92,7 +92,7 @@ title = "Biodiversity Monitoring in GGC Meta"
   [[params.services.item]]
     icon = "icon-map-o"
     title = "Maps"
-    description = "Mapping movement and silvopastoral use intensity."
+    description = "Mapping bird movement and silvopastoral use intensity."
 
   [[params.services.item]]
     icon = "icon-support"
@@ -147,19 +147,7 @@ title = "Biodiversity Monitoring in GGC Meta"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "We are a group of ornitologist, entomologist and wildlife biologists working hard to collect the best data."
-
-
-  [[params.team.item]]
-    name = "Thomas Walsburger"
-    position = "Senior Scientific Advisor, TNC"
-    description = "Thomas designed and orient the reseach."
-    img = "images/Thomas.jpg"
-    facebook = "https://www.facebook.com/twalsch"
-    # twitter = "#"
-    # dribbble = "#"
-    # instagram = "#"
-    # github = "#"
+  description = "We are a group of Ornithologist, Entomologist and Wildlife Biologists working hard to collect the best data."
 
 
   [[params.team.item]]
@@ -178,7 +166,7 @@ title = "Biodiversity Monitoring in GGC Meta"
   [[params.team.item]]
     name = "Alejandro Lopera"
     position = "Science Director, GAICA"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Alejandro provides his practical habilities to guide and plan the field work."
     img = "images/Alejo.jpg"
     facebook = "https://www.facebook.com/alejandroloperat"
     # twitter = "#"
@@ -188,8 +176,8 @@ title = "Biodiversity Monitoring in GGC Meta"
 
   [[params.team.item]]
     name = "Robert Rodriguez"
-    position = "Ornitologist, GAICA"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "Ornithologist, GAICA"
+    description = "Robert provide his experence to capture track birds. His extensive expereince in the field is key to solve logistic problems."
     img = "images/robert.jpg"
     facebook = "https://www.facebook.com/robert.a.rodriguez.16"
     # twitter = "#"
@@ -198,9 +186,9 @@ title = "Biodiversity Monitoring in GGC Meta"
     # github = "#"
 
   [[params.team.item]]
-    name = "Yuri Rodriguez"
-    position = "Ornitologist, GAICA"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    name = "Yuri Rosero"
+    position = "Ornithologist, GAICA"
+    description = "Yuri is an expereinced field Ornithologist. Her knowledge is fundamental in the identification, capture and track of birds."
     img = "images/yuri.jpg"
     facebook = "https://www.facebook.com/yuri.r.mora"
     # twitter = "#"
@@ -211,14 +199,25 @@ title = "Biodiversity Monitoring in GGC Meta"
   [[params.team.item]]
     name = "David Chapeta"
     position = "MSc. Student, Javeriana University"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "David is studyng how wildlife uses agricultural landscapes in Orinoquia."
     img = "images/David2.jpg"
     facebook = "https://www.facebook.com/pedro.chapeta"
     # twitter = "#"
     # dribbble = "#"
     # instagram = "#"
-    # github = "#"  
+    # github = "#"
 
+
+    [[params.team.item]]
+      name = "Thomas Walsburger"
+      position = "Senior Scientific Advisor, TNC"
+      description = "Thomas designed and guide the reseach."
+      img = "images/Thomas.jpg"
+      facebook = "https://www.facebook.com/twalsch"
+      # twitter = "#"
+      # dribbble = "#"
+      # instagram = "#"
+      # github = "#"
 
   # [[params.team.item]]
   #   name = "Jason Doe"
@@ -235,7 +234,7 @@ title = "Biodiversity Monitoring in GGC Meta"
 [params.contact]
   enable = true
   title = "Some Results"
-  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  message = "We have mapped how birds use their habitat using kernel methods to estimate home ranges."
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
