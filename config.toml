@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://monitoring-bird.github.io/september/"
+baseURL = "https://bird-monitoring.netlify.com/"
 languageCode = "en-US"
 title = "Biodiversity Monitoring in GGC Meta"
 
